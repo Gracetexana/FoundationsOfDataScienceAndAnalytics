@@ -83,6 +83,17 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 >
 > 7. Feature reduction.
 >
-> <details>8. Train models.
+> <details><summary>8. Train models.</summary>
+>
+> > - 4 multinomial logistic regression models optimized with gradient descent and having different values of alpha and using different regularization techniques
+  >
+  > - an RBF support vector machine using a one-versus-rest decision function (good for large datasets like mine)
+  >
+  > - a decision tree
+  >
+  > - a decision tree with tuned hyperparameters
+  >
+  > - a random forest
+  </details>
 
 </details>
