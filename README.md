@@ -1,16 +1,9 @@
-# Foundations of Data Science and Analytics
-
-## Taught by Professor Nidhi Rastogi at RIT
+# Foundations of Data Science and Analytics - Taught by Professor Nidhi Rastogi at RIT
 
 I enrolled in this course during my second semester at RIT from August 2023 to December 2023. We learned the inner workings of several machine learning and implemented them. The primary programming language of this course was python and each of our assignments was completed using Google Colab.
 
 
-#### [Naive Bayes](LongToralesHW1.ipynb)
-<details>
-  <summary>
-    
-  </summary>
-
+## [Naive Bayes](LongToralesHW1.ipynb)
 
 > 1. Load Iris dataset
 > 
@@ -20,16 +13,9 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 >
 > 4. Predict test data using training data probabilities.
 
-</details>
 
-<br>
-  
-#### [Gradient Descent and Fine Tuning](LongToralesHW2.ipynb)
 
-<details>
-  <summary>
-    
-  </summary>
+## [Gradient Descent and Fine Tuning](LongToralesHW2.ipynb)
 
 > 1. Generate synthetic data.
 > 
@@ -39,16 +25,9 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 >
 > 4. Display results.
 
-</details>
 
-<br>
-  
-#### [Decision Trees and Support Vector Machines](LongToralesHW3.ipynb)
 
-<details>
-  <summary>
-    
-  </summary>
+## [Decision Trees and Support Vector Machines](LongToralesHW3.ipynb)
 
 > 1. Decision tree for categorical data.
 >
@@ -58,16 +37,9 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 >
 > 4. Support vector machine with RBF kernel.
 
-</details>
 
-<br>
-  
-#### [Project](LongToralesProject.ipynb)
 
-<details>
-  <summary>
-    
-  </summary>
+## [Project](LongToralesProject.ipynb)
 
 > 1. Create a problem statement for assigned <a href=https://scikit-learn.org/stable/datasets/real_world.html#newsgroups-dataset>dataset</a>.
 >
@@ -86,14 +58,11 @@ I enrolled in this course during my second semester at RIT from August 2023 to D
 > <details><summary>8. Train models.</summary>
 >
 > > - 4 multinomial logistic regression models optimized with gradient descent and having different values of alpha and using different regularization techniques
-  >
-  > - an RBF support vector machine using a one-versus-rest decision function (good for large datasets like mine)
-  >
-  > - a decision tree
-  >
-  > - a decision tree with tuned hyperparameters
-  >
-  > - a random forest
-  </details>
-
-</details>
+> >
+> > - an RBF support vector machine using a one-versus-rest decision function (good for large datasets like mine)
+> >
+> > - a decision tree
+> >
+> > - a decision tree with tuned hyperparameters
+> >
+> > - a random forest
