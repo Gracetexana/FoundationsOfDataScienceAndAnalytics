@@ -1,6 +1,6 @@
-# Foundations of Data Science and Analytics - Taught by Professor Nidhi Rastogi at RIT
+# Foundations of Data Science and Analytics - Taught by Professor Nidhi Rastogi at Rochester Institute of Technology
 
-I enrolled in this course during my second semester at RIT from August 2023 to December 2023. We learned the inner workings of several machine learning and implemented them. The primary programming language of this course was python and each of our assignments was completed using Google Colab.
+I enrolled in this course during my second semester at RIT from August 2023 to December 2023. We learned the inner workings of several machine learning models and implemented them. The primary programming language of this course was python and each of our assignments was completed using Google Colab.
 
 
 ## [Naive Bayes](LongToralesHW1.ipynb)
